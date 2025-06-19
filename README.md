@@ -5,7 +5,7 @@ This is a basic Java-based web calculator built using **Servlets** (Jakarta EE) 
 ---
 
 ## Project Structure
-SimpleCalculator/
+SimpleCalculator/ br
 ├── src/
 │ └── Demo1Package1/
 │ └── Calculater.java
