@@ -6,15 +6,15 @@ This is a basic Java-based web calculator built using **Servlets** (Jakarta EE) 
 
 ## Project Structure
 SimpleCalculator/ <br>
-src/   <br> 
-└── main/  <br> 
-    ├── java/    <br>  
-    │   └── Demo1Package1/   <br>  
-    │       └── Calculater.java   <br>  
-    └── webapp/    <br>  
-        ├── Cal.html   <br>  
-        └── WEB-INF/  <br>  
-            └── web.xml   <br> 
+src/      <br>
+└── main/   <br>
+    ├── java/   <br>
+    │   └── Demo1Package1/    <br>
+    │       └── Calculater.java    <br>
+    └── webapp/     <br>
+        ├── Cal.html    <br>
+        └── WEB-INF/    <br>
+            └── web.xml   <br>
 ##  Features
 
 - Addition (`+`)
